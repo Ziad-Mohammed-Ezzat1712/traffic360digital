@@ -4,7 +4,7 @@ import teamImage from "../../assets/herosec.png"; // عدّل للمسار ال�
 import Navbar from "../Navbar/Navbar";
 import heroBG from "../../assets/HeroBG.png";
 import heroRightBG from "../../assets/HeroRightBG.png";
- import { FiChevronLeft, FiChevronRight,FiArrowUp,  } from "react-icons/fi";
+ import {FiArrowUp} from "react-icons/fi";
 export default function Hero() {
  return (
     <section className=" h-auto grid md:grid-cols-2  text-white relative overflow-hidden container mx-auto   "

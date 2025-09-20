@@ -70,7 +70,7 @@ export default function Footer() {
             />
             <button
               type="submit"
-              className="w-32 cursor-pointer bg-blue-600 hover:bg-blue-700 text-white px-4 py-3 rounded-lg transition"
+              className="w-32 cursor-pointer bg-[#0F9BA3] hover:bg-[#0b878e] text-white px-4 py-3 rounded-lg transition"
             >
               Subscribe
             </button>

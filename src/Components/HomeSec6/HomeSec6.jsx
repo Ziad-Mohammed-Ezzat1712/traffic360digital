@@ -10,7 +10,7 @@ import linkedin from "../../assets/linkedin.png";
 
 export default function HomeSec6() {
   const team = [
-    { name: "Gamal Abdelnasser", role: "Graphic Designer", image: gamal, linkedin: "#" },
+    { name: "Gamal Abdelnasser", role: "Graphic Designer",  image: gamal, linkedin: "#" },
     { name: "Engy Yasser", role: "Content Creator", image: engy, linkedin: "#" },
     { name: "Ahmed Khaled", role: "Manager", image: adham, linkedin: "#" },
     { name: "Mohammed Ragab", role: "Account Manager", image: gemy, linkedin: "#" },
